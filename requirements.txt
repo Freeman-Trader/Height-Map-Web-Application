@@ -1,5 +1,5 @@
-matplotlib>=3.5.0
-numpy>=1.21.0
-ridge_map>=1.0.0
-streamlit>=1.10.0
-imageio>=2.9.0
+matplotlib
+numpy
+ridge_map
+streamlit
+imageio
